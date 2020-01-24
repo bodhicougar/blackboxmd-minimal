@@ -130,16 +130,19 @@ sections:
           url: 'https://twitter.com/BBMediaDesign'
         - icon: fa-facebook
           title: Facebook
-          url: '#'
-        - icon: fa-github
-          title: GitHub
-          url: 'https://github.com/bodhicougar'
+          url: 'https://www.facebook.com/bbmediadesign/'
         - icon: fa-instagram
           title: Instagram
           url: 'https://www.instagram.com/blackboxmediadesign/'
+        - icon: fa-github
+          title: GitHub
+          url: 'https://github.com/bodhicougar'
         - icon: fa-linkedin
           title: LinkedIn
           url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
+        - icon: fa-youtube
+          title: Youtube Channel
+          url: 'https://www.youtube.com/watch?v=oJwrR37h-Lk'
       title: Social
     text: |-
       Drop us a line, we will get back to you as soon as possible.
