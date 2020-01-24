@@ -115,7 +115,7 @@ sections:
           Tallinn 15551
           Estonia
         title: Address
-        url: 'https://www.bbmediadesign.net/about/'
+        url: '#'
       - text: info@blackboxmd.fyi
         title: E-mail
         url: 'mailto:info@blackboxmd.fyi'
