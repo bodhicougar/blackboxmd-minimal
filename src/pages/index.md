@@ -127,19 +127,19 @@ sections:
       social_icons:
         - icon: fa-twitter
           title: Twitter
-          url: '#'
+          url: 'https://twitter.com/BBMediaDesign'
         - icon: fa-facebook
           title: Facebook
           url: '#'
         - icon: fa-github
           title: GitHub
-          url: '#'
+          url: 'https://github.com/bodhicougar'
         - icon: fa-instagram
           title: Instagram
-          url: '#'
+          url: 'https://www.instagram.com/blackboxmediadesign/'
         - icon: fa-linkedin
           title: LinkedIn
-          url: '#'
+          url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
       title: Social
     text: |-
       Drop us a line, we will get back to you as soon as possible.
