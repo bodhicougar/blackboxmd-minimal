@@ -1,1 +1,10 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "six",
+      "title": "Da steht was",
+      "url": "#six",
+      "weight": 5
+    }
+  ]
+}
