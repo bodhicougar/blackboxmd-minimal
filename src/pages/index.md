@@ -28,7 +28,8 @@ sections:
       strategically.**
 
 
-      ![BlackBoxMediaDesign Logo](/images/BBMD Banner.jpg "We make it happen!")
+      ![BlackBoxMediaDesign Logo](/images/BBMD Banner.jpg "BlackBoxMediaDesign:
+      We make it happen!")
 
 
       **SaaS:** Software as a Service (SaaS) ist ein Teilbereich des Cloud
