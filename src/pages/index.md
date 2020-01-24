@@ -24,15 +24,14 @@ sections:
     component: Intro
     section_id: intro
     subtitle: >-
-      Cloud Solution Architect for the Social Media Era: organizing entities
-      strategically.
+      **Cloud Solution Architect for the Social Media Era: organizing entities
+      strategically.**
 
 
-      ![BlackBoxMediaDesign Logo](/images/blackboxmd_logo.jpg "We make it
-      happen!")
+      ![BlackBoxMediaDesign Logo](/images/BBMD Banner.jpg "We make it happen!")
 
 
-      **SaaS:**Software as a Service (SaaS) ist ein Teilbereich des Cloud
+      **SaaS:** Software as a Service (SaaS) ist ein Teilbereich des Cloud
       Computings. Das SaaS-Modell basiert auf dem Grundsatz, dass die Software
       und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und
       vom Kunden als Dienstleistung genutzt werden. Für die Nutzung von
