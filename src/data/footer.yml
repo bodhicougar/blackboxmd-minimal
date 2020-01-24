@@ -1,7 +1,10 @@
-landing_style: style2-alt
+landing_style: style1-alt
 alt_style: alt
 copyright: '&copy;BlackBoxMediaDesign 2020. All rights reserved.'
 links:
   - new_window: true
     text: Made with Stackbit
     url: 'https://www.stackbit.com'
+  - new_window: true
+    text: Powered by BlackBoxMediaDesign
+    url: 'https://www.bbmediadesign.net/'
