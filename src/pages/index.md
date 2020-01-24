@@ -106,15 +106,22 @@ sections:
     component: Contact
     contact_list:
       - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
+          BlackBoxMediaDesign OÜ
+
+          Private Limited Company ( OÜ )
+          Registry code 14648845
+
+          Sepapaja 6
+          Tallinn 15551
+          Estonia
         title: Address
+        url: 'https://www.bbmediadesign.net/about/'
       - text: info@blackboxmd.fyi
         title: E-mail
         url: '#'
-      - text: (000) 000-0000
+      - text: +372 8840380
         title: Phone
+        url: 'tel:+3728840380'
     section_id: three
     social:
       social_icons:
@@ -134,12 +141,11 @@ sections:
           title: LinkedIn
           url: '#'
       title: Social
-    text: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
-    title: Get in touch
+    text: |-
+      Drop us a line, we will get back to you as soon as possible.
+
+      Cheerio!
+    title: 'Get in touch: Contact us!'
     type: contact
 menus:
   main:
