@@ -54,7 +54,7 @@ sections:
   - background_style: style2
     component: Spotlights
     section_id: one
-    title: Spotlights Section
+    title: Who we are
     type: spotlights
   - actions:
       - is_primary: false
