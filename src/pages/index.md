@@ -118,7 +118,7 @@ sections:
         url: 'https://www.bbmediadesign.net/about/'
       - text: info@blackboxmd.fyi
         title: E-mail
-        url: '#'
+        url: 'mailto:info@blackboxmd.fyi'
       - text: +372 8840380
         title: Phone
         url: 'tel:+3728840380'
