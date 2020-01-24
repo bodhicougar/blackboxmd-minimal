@@ -23,10 +23,14 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    subtitle: >-
+      Cloud Solution Architect for the Social Media Era: organizing entities
+      strategically.
+
+
+      ![BlackBoxMediaDesign Logo](/images/blackboxmd_logo.jpg "We make it
+      happen!")
+    title: Portfolio
     type: intro
   - background_style: style2
     component: Spotlights
