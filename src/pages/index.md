@@ -142,7 +142,7 @@ sections:
           url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
         - icon: fa-youtube
           title: Youtube Channel
-          url: 'https://www.youtube.com/watch?v=oJwrR37h-Lk target="_blank"'
+          url: 'https://www.youtube.com/watch?v=oJwrR37h-Lk'
       title: Social
     text: |-
       Drop us a line, we will get back to you as soon as possible.
