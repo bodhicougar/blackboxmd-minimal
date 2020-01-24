@@ -30,7 +30,26 @@ sections:
 
       ![BlackBoxMediaDesign Logo](/images/blackboxmd_logo.jpg "We make it
       happen!")
-    title: Portfolio
+
+
+      **SaaS:**Software as a Service (SaaS) ist ein Teilbereich des Cloud
+      Computings. Das SaaS-Modell basiert auf dem Grundsatz, dass die Software
+      und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und
+      vom Kunden als Dienstleistung genutzt werden. Für die Nutzung von
+      Online-Diensten wird ein internetfähiger Computer sowie die
+      Internetanbindung an den externen IT-Dienstleister benötigt. Der Zugriff
+      auf die Software wird meist über einen Webbrowser realisiert.
+
+
+      Für die Nutzung und den Betrieb zahlt der Servicenehmer ein
+      Nutzungsentgelt. Durch das SaaS-Modell werden dem Servicenehmer die
+      Anschaffungs- und Betriebskosten teilweise erspart, da der Servicegeber
+      die komplette IT-Administration und weitere Dienstleistungen wie
+      Wartungsarbeiten.und Softwareaktualisierungen übernimmt. Zu diesem Zweck
+      wird die IT-Infrastruktur, einschließlich aller administrativen Aufgaben,
+      ausgelagert, und der Servicenehmer kann sich auf sein Kerngeschäft
+      konzentrieren.
+    title: Introduction
     type: intro
   - background_style: style2
     component: Spotlights
