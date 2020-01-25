@@ -1,5 +1,5 @@
-landing_style: style1-alt
-alt_style: style1-alt
+landing_style: alt
+alt_style: style3-alt
 copyright: '&copy;BlackBoxMediaDesign 2020. All rights reserved. '
 links:
   - new_window: true
