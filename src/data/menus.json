@@ -1,3 +1,10 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "main_entry",
+      "title": "Home",
+      "url": "/",
+      "weight": 0
+    }
+  ]
 }
