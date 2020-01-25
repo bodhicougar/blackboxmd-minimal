@@ -152,6 +152,7 @@ sections:
     type: contact
 menus:
   main:
+    identifier: main_entry
     title: Home
     weight: 1
 template: home
