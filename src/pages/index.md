@@ -98,9 +98,9 @@ sections:
       - text: info@blackboxmd.fyi
         title: E-mail
         url: mailto:info@blackboxmd.fyi
-      - text: +372 8840380
+      - text: +43 660 5999985
         title: Phone
-        url: tel:+3728840380
+        url: tel:+436605999985
     section_id: three
     social:
       social_icons:
