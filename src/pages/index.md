@@ -4,22 +4,22 @@ sidebar:
   entries:
     - is_primary: true
       title: Welcome
-      url: '#intro'
+      url: "#intro"
     - is_primary: false
       title: Who we are
-      url: '#one'
+      url: "#one"
     - is_primary: false
       title: What we do
-      url: '#two'
+      url: "#two"
     - is_primary: false
       title: Get in touch
-      url: '#three'
+      url: "#three"
 sections:
   - actions:
       - is_primary: false
         is_scrolly: true
         label: Learn more
-        url: '#one'
+        url: "#one"
     background_style: style1
     component: Intro
     section_id: intro
@@ -28,27 +28,13 @@ sections:
       strategically.**
 
 
-      ![BlackBoxMediaDesign Logo](/images/bbmediadesign_YT.jpg
-      "BlackBoxMediaDesign: We make it happen!")
+      ![BlackBoxMediaDesign Logo](/images/bbmediadesign_YT.jpg "BlackBoxMediaDesign: We make it happen!")
 
 
-      **SaaS:** Software as a Service (SaaS) ist ein Teilbereich des Cloud
-      Computings. Das SaaS-Modell basiert auf dem Grundsatz, dass die Software
-      und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und
-      vom Kunden als Dienstleistung genutzt werden. Für die Nutzung von
-      Online-Diensten wird ein internetfähiger Computer sowie die
-      Internetanbindung an den externen IT-Dienstleister benötigt. Der Zugriff
-      auf die Software wird meist über einen Webbrowser realisiert.
+      **SaaS:** Software as a Service (SaaS) ist ein Teilbereich des Cloud Computings. Das SaaS-Modell basiert auf dem Grundsatz, dass die Software und die IT-Infrastruktur bei einem externen IT-Dienstleister betrieben und vom Kunden als Dienstleistung genutzt werden. Für die Nutzung von Online-Diensten wird ein internetfähiger Computer sowie die Internetanbindung an den externen IT-Dienstleister benötigt. Der Zugriff auf die Software wird meist über einen Webbrowser realisiert.
 
 
-      Für die Nutzung und den Betrieb zahlt der Servicenehmer ein
-      Nutzungsentgelt. Durch das SaaS-Modell werden dem Servicenehmer die
-      Anschaffungs- und Betriebskosten teilweise erspart, da der Servicegeber
-      die komplette IT-Administration und weitere Dienstleistungen wie
-      Wartungsarbeiten.und Softwareaktualisierungen übernimmt. Zu diesem Zweck
-      wird die IT-Infrastruktur, einschließlich aller administrativen Aufgaben,
-      ausgelagert, und der Servicenehmer kann sich auf sein Kerngeschäft
-      konzentrieren.
+      Für die Nutzung und den Betrieb zahlt der Servicenehmer ein Nutzungsentgelt. Durch das SaaS-Modell werden dem Servicenehmer die Anschaffungs- und Betriebskosten teilweise erspart, da der Servicegeber die komplette IT-Administration und weitere Dienstleistungen wie Wartungsarbeiten.und Softwareaktualisierungen übernimmt. Zu diesem Zweck wird die IT-Infrastruktur, einschließlich aller administrativen Aufgaben, ausgelagert, und der Servicenehmer kann sich auf sein Kerngeschäft konzentrieren.
     title: Introduction
     type: intro
   - background_style: style2
@@ -65,38 +51,31 @@ sections:
     component: Features
     features_list:
       - icon: fa-code
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Lorem ipsum amet
       - icon: fa-lock
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Aliquam sed nullam
       - icon: fa-cog
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Sed erat ullam corper
       - icon: fa-desktop
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Veroeros quis lorem
       - icon: fa-chain
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Urna quis bibendum
       - icon: fa-diamond
-        text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+        text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
+          turpis mauris, sed ultricies erat dapibus.
         title: Aliquam urna dapibus
     section_id: two
-    subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
+    subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
       hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
       quis lorem.
@@ -115,40 +94,40 @@ sections:
           Tallinn 15551
           Estonia
         title: Address
-        url: ''
+        url: ""
       - text: info@blackboxmd.fyi
         title: E-mail
-        url: 'mailto:info@blackboxmd.fyi'
+        url: mailto:info@blackboxmd.fyi
       - text: +372 8840380
         title: Phone
-        url: 'tel:+3728840380'
+        url: tel:+3728840380
     section_id: three
     social:
       social_icons:
         - icon: fa-twitter
           title: Twitter
-          url: 'https://twitter.com/BBMediaDesign'
+          url: https://twitter.com/BBMediaDesign
         - icon: fa-facebook
           title: Facebook
-          url: 'https://www.facebook.com/bbmediadesign/'
+          url: https://www.facebook.com/bbmediadesign/
         - icon: fa-instagram
           title: Instagram
-          url: 'https://www.instagram.com/blackboxmediadesign/'
+          url: https://www.instagram.com/blackboxmediadesign/
         - icon: fa-github
           title: GitHub
-          url: 'https://github.com/bodhicougar'
+          url: https://github.com/bodhicougar
         - icon: fa-linkedin
           title: LinkedIn
-          url: 'https://www.linkedin.com/in/blackboxmd/?locale=en_US'
+          url: https://www.linkedin.com/in/blackboxmd/?locale=en_US
         - icon: fa-youtube
           title: Youtube Channel
-          url: 'https://www.youtube.com/watch?v=oJwrR37h-Lk'
+          url: https://www.youtube.com/channel/UCAGGws4s4OScQNlOCx2u0vQ
       title: Social
     text: |-
       Drop us a line, we will get back to you as soon as possible.
 
       Cheerio!
-    title: 'Get in touch: Contact us!'
+    title: "Get in touch: Contact us!"
     type: contact
 menus:
   main:
@@ -157,4 +136,3 @@ menus:
     weight: 1
 template: home
 ---
-
