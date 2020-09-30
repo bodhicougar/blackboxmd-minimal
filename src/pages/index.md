@@ -24,7 +24,7 @@ sections:
     component: Intro
     section_id: intro
     subtitle: >-
-      **Cloud Solution Architect for the Social Media Era: organizing entities
+      **Cloud Solution Architect for the Social Media Era: counseling entities
       strategically.**
 
 
